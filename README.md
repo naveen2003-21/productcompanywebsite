@@ -361,8 +361,17 @@ Publish the website in the given URL.
 ### Home Page:
 
 ![output](./images/out1.png)
+
+### PRODUCT PAGE:
+
 ![output](./images/out2.png)
+
+### PEOPLE PAGE:
+
 ![output](./images/out3.png)
+
+### CONTACTUS PAGE:
+
 ![output](./images/out4.png)
 
 ## Result:
