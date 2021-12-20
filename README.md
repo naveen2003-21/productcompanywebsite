@@ -37,7 +37,7 @@ Publish the website in the given URL.
 ## PROGRAM : 
 
  ### HOME CODE:
-
+ ```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -45,7 +45,6 @@ Publish the website in the given URL.
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner">COGNIZANT PVT LTD</div>
@@ -96,7 +95,6 @@ Publish the website in the given URL.
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner">COGNIZANT PVT LTD</div>
@@ -214,9 +212,7 @@ Publish the website in the given URL.
     <title>COGNIZANT</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
-  </head>
-
-  
+  </head> 
   <body>
     <div class="container">
       <div class="banner">COGNIZANT PVT LTD</div>
@@ -293,7 +289,6 @@ Publish the website in the given URL.
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner">COGNIZANT PVT LTD.</div>
@@ -352,7 +347,7 @@ Publish the website in the given URL.
       </div>
   </body>
 </html>
-
+```
 
 
 ## OUTPUT:
@@ -360,19 +355,19 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![github logo](./images/out1.png)
+![github logo](./out1.png)
 
 ### PRODUCT PAGE:
 
-![github logo](./images/out2.png)
+![github logo](./out2.png)
 
 ### PEOPLE PAGE:
 
-![github logo](./images/out3.png)
+![github logo](./out3.png)
 
 ### CONTACTUS PAGE:
 
-![github logo](./images/out4.png)
+![github logo](./out4.png)
 
 ## Result:
 
